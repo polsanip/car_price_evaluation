@@ -1,4 +1,4 @@
-# Car Prices Prediction Model
+# Car Prices Evaluation Model
 
 ## Introduction
 
